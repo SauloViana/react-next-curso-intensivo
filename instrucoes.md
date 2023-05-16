@@ -5,8 +5,8 @@ OK - [REACT] primeiro componente
 OK - [REACT] componente usando props.children
 OK - [REACT] componente usando props
 OK - [REACT] componente com eventos
+OK - [REACT] componentes com estado
 
-- [REACT] componente com estado
 - [REACT] comunicação entre componentes (direta)
 - [REACT] comunicação entre componentes (indireta)
 - [REACT] renderização condicional
